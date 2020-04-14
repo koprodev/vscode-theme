@@ -1,16 +1,16 @@
 {
-	"name": "ohnagi",
-	"displayName": "Ohnagi 2020",
-	"description": "ohnagi's theme",
-	"icon": "images/AI.png",
-	"version": "0.1.5",
-	"publisher": "ohnagi",
+	"name": "devpro",
+	"displayName": "DevPro theme",
+	"description": "DevPro theme",
+	"icon": "images/devpro.png",
+	"version": "0.0.1",
+	"publisher": "koprodev",
 	"engines": {
 		"vscode": "^1.44.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/koprodev/ohnagi2020.git"
+		"url": "https://github.com/koprodev/vscode-theme.git"
 	},
 	"categories": [
 		"Themes"
@@ -18,15 +18,15 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "OhNaGi 2020",
+				"label": "DevPro v2020",
 				"uiTheme": "vs-dark",
-				"path": "./themes/OhNaGi-2020-color-theme.json"
+				"path": "./themes/devpro-color-theme-ver-2020.json"
 			}
 		]
 	},
 	"__metadata": {
-		"id": "4c09f869-cef5-43e5-b285-95e292dd3632",
-		"publisherDisplayName": "ohnagi",
-		"publisherId": "928d1a10-4250-4e25-97ea-453eab686da3"
+		"id": "59789bb9-0f13-472e-99dd-f0a8b9045dc2",
+		"publisherId": "5d17d0cf-4f99-4403-861d-5f6d4df72417",
+		"publisherDisplayName": "koprodev"
 	}
 }

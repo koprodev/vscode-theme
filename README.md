@@ -1,6 +1,6 @@
 # DevPro VS Code Theme
 
-![screenshot](https://raw.githubusercontent.com/koprodev/ohnagi2020/master/images/ohnagi2020.jpg)
+![screenshot](https://raw.githubusercontent.com/koprodev/vscode-theme/master/images/theme-2020.jpg)
 
 
 # Tested Languages
@@ -17,7 +17,7 @@
 4.  Search for `devpro`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
-7.  From the menu bar click: Code > Preferences > Color Theme > **DevPro 2020**
+7.  From the menu bar click: Code > Preferences > Color Theme > **DevPro v2020**
 
 # 같이 사용하는 확장 프로그램
 - Bracket Pair Colorizer : 괄호 뎁스별로 색상 표현
